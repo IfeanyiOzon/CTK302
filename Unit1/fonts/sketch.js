@@ -15,10 +15,9 @@ function draw() {
   background(100) ;
   textFont(rowdiesr);
   textSize(48)
-  text("it's your boy")
-
+text("it's your boy", 100, 100) ;
   textFont(syner);
   textSize(48)
-  text("it's your boy")
+  text("it's your boy", 200, 300) ;
 
 }
