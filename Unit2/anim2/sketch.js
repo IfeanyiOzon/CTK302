@@ -10,7 +10,7 @@ function draw() {
   push() ;
   translate(x,0);
   avatar();
-  x += 5;
+  x += 100;
   if (x > width) {
     x = -500;
   }
